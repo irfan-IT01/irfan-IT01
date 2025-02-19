@@ -1,10 +1,18 @@
-- 👋 Hi, I’m @irfan-IT01
-- 👀 I’m interested in Data anylatics and development
-- 🌱 I’m currently learning ...
+💡 Passionate about  Web Development
+📊 Learning to turn data into meaningful insights
+
+🔹 Languages: HTML, CSS, JavaScript, Python C, C#
+🔹 Frameworks: Bootstrap,ASP.NET MVC
+🔹 Database : MySQL
+
+- 🌱 I’m currently learning 
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 📫 Connect me!
+- 📧 Email: irfan51210057@gmail.com
+  💼 LinkedIn: https://www.linkedin.com/in/itirfan07
+  🌐 Portfolio: https://github.com/irfan-IT01/Personal_portfolio
+ 
+
 
 <!---
 irfan-IT01/irfan-IT01 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
